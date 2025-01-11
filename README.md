@@ -15,5 +15,7 @@ The analysis provides statistically robust confidence intervals for **mean durab
 
 ## The tools you used are:
 -NumPy
+
 -Pandas
+
 -SciPy
