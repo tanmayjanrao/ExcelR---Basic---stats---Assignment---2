@@ -13,7 +13,7 @@ This project estimates the **mean durability** of print-heads (*measured in mill
 ## Outcome
 The analysis provides statistically robust confidence intervals for **mean durability**, supporting data-driven quality control decisions.
 
-##The tools you used are:
-**NumPy**
-**Pandas**
-**SciPy**
+## The tools you used are:
+-NumPy
+-Pandas
+-SciPy
