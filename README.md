@@ -1,4 +1,4 @@
-# Print-Head Durability Analysis**
+# Print-Head Durability Analysis
 
 This project estimates the **mean durability** of print-heads (*measured in millions of characters* printed before failure) using confidence intervals. 
 > **Destructive sampling** constraints necessitate statistical methods for accurate quality assessment.
